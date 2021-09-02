@@ -1,5 +1,6 @@
 
 <img src="https://github.com/DenizNazari/DenizNazari/blob/main/1054923.jpg" />
+
 ### ROOKIE SOFTWARE DEVELOPER👽
 
 
@@ -11,11 +12,10 @@ learning:
 - javascrip
 - html-css
 - c#
+
+
      
      
-
-
-
 
 
 
