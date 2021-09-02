@@ -1,11 +1,39 @@
-### ROOKIE SOFTWARE DEVELOPER👽
+
 <img src="https://github.com/DenizNazari/DenizNazari/blob/main/1054923.jpg" />
+### ROOKIE SOFTWARE DEVELOPER👽
+
+
+
+game developer in [Silahsorler](https://github.com/Silahsorler)
+
+learning:
+- python 
+- javascrip
+- html-css
+- c#
+     
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--<img src="https://www.codewars.com/users/DenizNazar/badges/large"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DenizNazari&show_icons=true&theme=radical"/>
 
 <!--
 **DenizNazari/DenizNazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizNazari&layout=compact)](https://github.com/DenizNazari/github-readme-stats)
 
 Here are some ideas to get you started:
 
