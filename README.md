@@ -1,5 +1,6 @@
-### Hi there 👋
-<img src="https://www.codewars.com/users/DenizNazar/badges/large"/>
+### ROOKIE SOFTWARE DEVELOPER👽
+<img src="https://github.com/DenizNazari/DenizNazari/blob/main/1054923.jpg" />
+<!--<img src="https://www.codewars.com/users/DenizNazar/badges/large"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DenizNazari&show_icons=true&theme=radical"/>
 
