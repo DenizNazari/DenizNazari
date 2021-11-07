@@ -5,7 +5,7 @@
 
 
 
-game developer in [Silahsorler](https://github.com/Silahsorler)
+game developer in [O.M.T](https://github.com/Silahsorler)
 
 learning:
 - python 
