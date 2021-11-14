@@ -9,7 +9,7 @@ game developer in [O.M.T](https://github.com/Silahsorler)
 
 learning:
 - python 
-- javascrip
+- javascript
 - html-css
 - c#
 
