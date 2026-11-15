@@ -59,13 +59,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/DenizNazari/MyPlannerApp">MyPlannerApp</a></h3>
+      <h3>🎂 <a href="https://github.com/DenizNazari/Poffle">Poffle</a></h3>
       <p>
-        <b>DEHB (ADHD) Odaklı Çok Platformlu Verimlilik ve Planlama Ekosistemi</b><br/>
-        <b>.NET Clean Architecture</b> (<code>Domain</code>, <code>Application</code>, <code>Infrastructure</code>, <code>Api</code> ve <code>Tests</code>) ile geliştirildi. Hızlı görev yakalama akışları, hobi zaman bloklama, su tüketimi takibi, haftalık öncelik yönetimi ve etkileşimli sanal evcil hayvan sistemi içerir.
+        <b>Cozy 3D Pasta Süsleme ve Pastane Simülasyonu</b><br/>
+        Unity 6 üzerinde <b>kod tabanlı prosedürel mimari</b> ile geliştirildi. 7 farklı duy profiliyle gerçek zamanlı tek-mesh krema sıkma (ribbon &amp; dollop extrusion), yüzeye duyarlı raycast etkileşimi, spatula ile vertex-alpha tabanlı krema kaplama, çok katmanlı pasta dizilimi ve sipariş/kalite değerlendirme döngüsü içerir.
       </p>
       <p>
-        <code>C#</code> <code>.NET</code> <code>Clean Architecture</code> <code>REST API</code> <code>Unit Testing</code>
+        <code>C#</code> <code>Unity 6</code> <code>Procedural Mesh</code> <code>Custom Shaders</code> <code>3D Simulation</code>
       </p>
     </td>
     <td width="50%" valign="top">

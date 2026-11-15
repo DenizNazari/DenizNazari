@@ -59,13 +59,13 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/DenizNazari/MyPlannerApp">MyPlannerApp</a></h3>
+      <h3>🎂 <a href="https://github.com/DenizNazari/Poffle">Poffle</a></h3>
       <p>
-        <b>ADHD-Focused Multi-Platform Productivity & Planning Ecosystem</b><br/>
-        Engineered with <b>.NET Clean Architecture</b> (<code>Domain</code>, <code>Application</code>, <code>Infrastructure</code>, <code>Api</code>, and <code>Tests</code>). Features rapid task capture workflows, hobby time-blocking, hydration tracking, weekly priority management, and an interactive companion pet system.
+        <b>Cozy 3D Cake Decorating &amp; Bakery Simulation</b><br/>
+        Engineered with a <b>code-driven procedural architecture</b> in Unity 6. Features real-time single-mesh cream extrusion across 7 nozzle profiles, surface-snapped raycast piping, vertex-alpha frosting film smoothing with spatula tools, multi-layer cake stacking, and a full order &amp; quality evaluation loop.
       </p>
       <p>
-        <code>C#</code> <code>.NET</code> <code>Clean Architecture</code> <code>REST API</code> <code>Unit Testing</code>
+        <code>C#</code> <code>Unity 6</code> <code>Procedural Mesh</code> <code>Custom Shaders</code> <code>3D Simulation</code>
       </p>
     </td>
     <td width="50%" valign="top">
