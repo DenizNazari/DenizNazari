@@ -1,6 +1,6 @@
 <div align="center">
 
-<a><img src="./banner.svg" width="100%" alt="Deniz Nazari — Software Developer Banner" /></a>
+<a id="banner"><img src="./banner.svg" width="100%" alt="Deniz Nazari — Software Developer Banner" /></a>
 
 <br />
 
@@ -32,7 +32,7 @@
 <div align="center">
 
 ### Diller & Framework'ler
-<a>
+<a id="tech-languages">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -44,7 +44,7 @@
 </a>
 
 ### Mimari, Veri & Geliştirme Araçları
-<a>
+<a id="tech-tools">
   <img src="https://img.shields.io/badge/Clean%20Architecture-10B981?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-6366F1?style=for-the-badge" alt="OOP & Design Patterns" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -90,7 +90,7 @@
 ## 📊 GitHub İstatistikleri & En Çok Kullanılan Diller
 
 <div align="center">
-  <a>
+  <a id="github-stats">
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
   </a>
