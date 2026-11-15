@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" rx="16" fill="url(#bg)" />
+  <rect width="1200" height="260" rx="16" fill="url(#grid)" />
+
+  <!-- Subtle Glow Circles -->
+  <circle cx="1050" cy="60" r="180" fill="#6366f1" opacity="0.12" />
+  <circle cx="180" cy="220" r="140" fill="#38bdf8" opacity="0.08" />
+
+  <!-- Top Accent Line -->
+  <rect x="60" y="52" width="90" height="4" rx="2" fill="url(#accent)" />
+
+  <!-- Main Heading -->
+  <text x="60" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+    Deniz Nazari
+  </text>
+
+  <!-- Subtitle / Role -->
+  <text x="60" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#a5b4fc">
+    Software Developer  ·  C# &amp; .NET Ecosystem  ·  Clean Architecture
+  </text>
+
+  <!-- Tagline -->
+  <text x="60" y="198" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#8b949e">
+    &gt; Building scalable backend systems, desktop applications, and clean object-oriented architectures.
+  </text>
+
+  <!-- Right Code Card Decoration -->
+  <g transform="translate(830, 48)">
+    <rect width="310" height="164" rx="12" fill="#0d1117" fill-opacity="0.75" stroke="#30363d" stroke-width="1.5" />
+    <circle cx="22" cy="20" r="5" fill="#ff5f56" />
+    <circle cx="38" cy="20" r="5" fill="#ffbd2e" />
+    <circle cx="54" cy="20" r="5" fill="#27c93f" />
+    <text x="22" y="54" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#ff7b72">public record</text>
+    <text x="124" y="54" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#d2a8ff">Developer</text>
+    <text x="22" y="76" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">{</text>
+    <text x="38" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Stack</text>
+    <text x="85" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">= [</text>
+    <text x="110" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">".NET 9"</text>
+    <text x="174" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">,</text>
+    <text x="186" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"C#"</text>
+    <text x="220" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">],</text>
+    <text x="38" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Focus</text>
+    <text x="85" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">=</text>
+    <text x="102" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"Clean Architecture"</text>
+    <text x="22" y="142" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">};</text>
+  </g>
+</svg>
