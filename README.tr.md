@@ -4,14 +4,14 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deniz%20Nazari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-deniznazari.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://deniznazari.github.io)
-[![Email](https://img.shields.io/badge/Email-bffdeniz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deniznazari.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
 
 <br />
 
-[![English](https://img.shields.io/badge/🌐%20Language-English-1f2937?style=for-the-badge)](./README.md)
-[![Türkçe](https://img.shields.io/badge/🇹🇷%20Dil-Türkçe%20(Aktif)-ef4444?style=for-the-badge)](./README.tr.md)
+[![English](https://img.shields.io/badge/English-1e293b?style=for-the-badge&logo=translate&logoColor=white)](./README.md)
+[![Türkçe](https://img.shields.io/badge/Türkçe-ef4444?style=for-the-badge&logo=readme&logoColor=white)](./README.tr.md)
 
 </div>
 
@@ -86,10 +86,8 @@
 ## 📊 GitHub İstatistikleri & En Çok Kullanılan Diller
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
-
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
