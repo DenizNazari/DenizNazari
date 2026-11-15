@@ -59,7 +59,7 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎂 <a href="https://github.com/DenizNazari/Poffle">Poffle</a></h3>
+      <h3>🎂 <a href="./projects/poffle/README.md">Poffle</a></h3>
       <p>
         <b>Cozy 3D Cake Decorating &amp; Bakery Simulation</b><br/>
         Engineered with a <b>code-driven procedural architecture</b> in Unity 6. Features real-time single-mesh cream extrusion across 7 nozzle profiles, surface-snapped raycast piping, vertex-alpha frosting film smoothing with spatula tools, multi-layer cake stacking, and a full order &amp; quality evaluation loop.

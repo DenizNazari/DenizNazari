@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎂 <a href="https://github.com/DenizNazari/Poffle">Poffle</a></h3>
+      <h3>🎂 <a href="./projects/poffle/README.md">Poffle</a></h3>
       <p>
         <b>Cozy 3D Pasta Süsleme ve Pastane Simülasyonu</b><br/>
         Unity 6 üzerinde <b>kod tabanlı prosedürel mimari</b> ile geliştirildi. 7 farklı duy profiliyle gerçek zamanlı tek-mesh krema sıkma (ribbon &amp; dollop extrusion), yüzeye duyarlı raycast etkileşimi, spatula ile vertex-alpha tabanlı krema kaplama, çok katmanlı pasta dizilimi ve sipariş/kalite değerlendirme döngüsü içerir.
