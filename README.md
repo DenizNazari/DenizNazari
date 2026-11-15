@@ -8,19 +8,37 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-deniznazari.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://deniznazari.github.io)
 [![Email](https://img.shields.io/badge/Email-bffdeniz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
 
+<br />
+
+[![English](https://img.shields.io/badge/🌐%20Language-English%20(Active)-38bdf8?style=for-the-badge)](./README.md)
+[![Türkçe](https://img.shields.io/badge/🇹🇷%20Dil-Türkçe-1f2937?style=for-the-badge)](./README.tr.md)
+
 </div>
+
+<details>
+<summary><b>🇹🇷 Türkçe Versiyonu Buradan Açın / Click Here for Inline Turkish Summary</b> (veya yukarıdaki <b>Türkçe</b> butonuna tıklayın)</summary>
+<br />
+
+### 👨‍💻 Hakkımda
+**C# ve .NET ekosistemi** başta olmak üzere **Temiz Mimari (Clean Architecture)**, nesne yönelimli programlama (OOP), RESTful API'ler ve masaüstü/web uygulamaları geliştirmeye odaklanan bir **Yazılım Geliştiriciyim**. Okunabilir, test edilebilir ve ölçeklenebilir kod mimarileri kurmaya önem veriyorum.
+
+- 🏗️ **Mimari & Backend:** `.NET 9`, `ASP.NET Core Web API`, `Domain-Driven Design (DDD)` prensipleri ve birim testli uygulama katmanlarıyla modüler çözümler.
+- 🧩 **Nesne Yönelimli Mühendislik:** C# OOP, algoritmalar, durum makineleri ve `Windows Forms` masaüstü arayüz geliştirme.
+- 🌍 **Full-Stack & Otomasyon:** `Python`, `JavaScript`, `HTML5/CSS3` ve ilişkisel veritabanları ile web platformları ve veri iş akışları.
+
+👉 **[Tam Türkçe Profil Sayfasını Aç (`README.tr.md`)](./README.tr.md)**
+
+</details>
 
 ---
 
-## 👨‍💻 About Me / Hakkımda
+## 👨‍💻 About Me
 
 I am a **Software Developer** focused on building maintainable, well-structured applications within the **C# & .NET ecosystem** alongside Python and modern web technologies. I enjoy designing clean domain models, layered backend architectures (**Clean Architecture**), and interactive desktop & web applications.
 
 - 🏗️ **Architecture & Backend:** Designing modular solutions with `.NET 9`, `ASP.NET Core Web API`, `Domain-Driven Design (DDD)` principles, and unit-tested application layers.
 - 🧩 **Object-Oriented Engineering:** Strong foundation in C# OOP, algorithms, state machines, and desktop UI development (`Windows Forms`).
 - 🌍 **Full-Stack & Scripting:** Experienced in building web platforms and automation/data workflows using `Python`, `JavaScript`, `HTML5/CSS3`, and relational databases.
-
-> 🇹🇷 **Özet:** **C# ve .NET ekosistemi** başta olmak üzere **Temiz Mimari (Clean Architecture)**, nesne yönelimli programlama (OOP), RESTful API'ler ve masaüstü/web uygulamaları geliştirmeye odaklanan bir Yazılım Geliştiriciyim. Okunabilir, test edilebilir ve ölçeklenebilir kod mimarileri kurmaya önem veriyorum.
 
 ---
 
@@ -51,7 +69,7 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 
 ---
 
-## 🚀 Featured Projects / Öne Çıkan Projeler
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -84,14 +102,14 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📫 Contact / İletişim
+## 📫 Contact
 
 - 💼 **LinkedIn:** [linkedin.com/in/deniz-nazari-b351a0201](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
 - 📧 **Email:** [bffdeniz@gmail.com](mailto:bffdeniz@gmail.com)
