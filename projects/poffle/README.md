@@ -1,9 +1,11 @@
 <div align="center">
 
 [![Back to Profile](https://img.shields.io/badge/⬅️%20Back%20to%20Profile-DenizNazari-1e293b?style=for-the-badge)](../../README.md)
-![Private Repository](https://img.shields.io/badge/Source%20Code-Private%20Repository%20🔒-f59e0b?style=for-the-badge)
-![Unity 6](https://img.shields.io/badge/Engine-Unity%206-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<a>
+  <img src="https://img.shields.io/badge/Source%20Code-Private%20Repository%20🔒-f59e0b?style=for-the-badge" alt="Private Repository" />
+  <img src="https://img.shields.io/badge/Engine-Unity%206-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
+  <img src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</a>
 
 </div>
 
