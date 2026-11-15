@@ -1,12 +1,12 @@
 <div align="center">
 
-<a id="banner"><img src="./banner.svg" width="100%" alt="Deniz Nazari — Software Developer Banner" /></a>
+<a id="banner"><img src="./banner.svg" width="100%" alt="Deniz (Daniz) Nazari — Software Developer Banner" /></a>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniz-nazari-b351a0201)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deniznazari.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazaridenizmacs@gmail.com)
 
 <br />
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 Hakkımda
 
-**C# ve .NET ekosistemi** başta olmak üzere Python ve modern web teknolojileriyle sürdürülebilir, iyi yapılandırılmış uygulamalar geliştirmeye odaklanan bir **Yazılım Geliştiriciyim**. Temiz domain modelleri, katmanlı backend mimarileri (**Clean Architecture**) ve etkileşimli masaüstü/web uygulamaları tasarlamaktan keyif alıyorum.
+Merhaba, ben **Deniz Nazari** *(Resmi / Pasaport: Daniz Nazari)*. **C# ve .NET ekosistemi** merkezli **Backend ve Full-Stack geliştirme**, **İş Süreçleri & Dijital Dönüşüm** ve **Yapay Zeka** odaklı çalışan bir **Yazılım Geliştiriciyim**.
 
-- 🏗️ **Mimari & Backend:** `.NET 9`, `ASP.NET Core Web API`, `Domain-Driven Design (DDD)` prensipleri ve birim testli (unit-tested) uygulama katmanlarıyla modüler çözümler tasarlama.
-- 🧩 **Nesne Yönelimli Mühendislik (OOP):** C# OOP, algoritmalar, durum makineleri (state machines) ve masaüstü arayüz geliştirme (`Windows Forms`) konularında güçlü temel.
-- 🌍 **Full-Stack & Otomasyon:** `Python`, `JavaScript`, `HTML5/CSS3` ve ilişkisel veritabanları kullanarak web platformları ve veri/otomasyon iş akışları geliştirme.
+- 🏗️ **.NET Backend & Clean Architecture:** `C# 13`, `.NET 9`, `ASP.NET Core Web API`, `Entity Framework Core`, `PostgreSQL` ve `Domain-Driven Design (DDD)` prensipleriyle modüler, sürdürülebilir ve test edilebilir sistemler tasarlama.
+- 🔄 **Full-Stack & Dijital Dönüşüm:** İş süreçlerini uçtan uca dijital iş akışlarına dönüştüren web ve masaüstü (`Windows Forms`, `JavaScript`, `HTML5/CSS3`) uygulamaları geliştirme.
+- 🤖 **Yapay Zeka & Otomasyon:** Yapay zeka destekli iş akışlarını, veri/otomasyon süreçlerini (`Python`) ve algoritmik çözümleri modern yazılım mimarilerine entegre etme *(ve hobi olarak C# ile prosedürel 3B simülasyonlar geliştirme)*.
 
 ---
 
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,13 +44,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </a>
 
-### Mimari, Veri & Geliştirme Araçları
+### Mimari, Veri, Yapay Zeka & Araçlar
 <a id="tech-tools">
   <img src="https://img.shields.io/badge/Clean%20Architecture-10B981?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-6366F1?style=for-the-badge" alt="OOP & Design Patterns" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Digital%20Transformation-0EA5E9?style=for-the-badge" alt="Digital Transformation" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-8B5CF6?style=for-the-badge" alt="AI & Automation" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%26%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL & SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </a>
@@ -62,17 +64,17 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎂 <a href="./projects/poffle/README.md">Poffle</a></h3>
+    <td width="33%" valign="top">
+      <h3>🗓️ <a href="https://github.com/DenizNazari/MyPlannerApp">MyPlannerApp</a></h3>
       <p>
-        <b>Cozy 3D Pasta Süsleme ve Pastane Simülasyonu</b><br/>
-        Unity 6 üzerinde <b>kod tabanlı prosedürel mimari</b> ile geliştirildi. 7 farklı duy profiliyle gerçek zamanlı tek-mesh krema sıkma (ribbon &amp; dollop extrusion), yüzeye duyarlı raycast etkileşimi, spatula ile vertex-alpha tabanlı krema kaplama, çok katmanlı pasta dizilimi ve sipariş/kalite değerlendirme döngüsü içerir.
+        <b>.NET 9 Clean Architecture Üretkenlik &amp; İş Akışı Platformu</b><br/>
+        Ayrıştırılmış <code>Domain</code>, <code>Application</code>, <code>Infrastructure</code>, <code>Api</code> ve <code>Tests</code> katmanlarıyla geliştirildi. Hiyerarşik Görev/Alışkanlık/Proje modellemesi, EF Core 9 Fluent API yapılandırmaları, PostgreSQL veritabanı ve seri (streak) analitiği içerir.
       </p>
       <p>
-        <code>C#</code> <code>Unity 6</code> <code>Procedural Mesh</code> <code>Custom Shaders</code> <code>3D Simulation</code>
+        <code>C# 13</code> <code>.NET 9</code> <code>EF Core 9</code> <code>PostgreSQL</code> <code>Clean Architecture</code>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🐉 <a href="https://github.com/DenizNazari/the-csharp-players-guide-quests">The C# Player's Guide — Quest Hub</a></h3>
       <p>
         <b>Etkileşimli C# Konsol &amp; Windows Forms Mühendislik Portfolyosu</b><br/>
@@ -80,6 +82,16 @@
       </p>
       <p>
         <code>C# 13</code> <code>.NET 9</code> <code>OOP</code> <code>Windows Forms</code> <code>Algorithms</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎂 <a href="./projects/poffle/README.md">Poffle (Showcase)</a></h3>
+      <p>
+        <b>C# ile Prosedürel 3B Simülasyon (Hobi Projesi)</b><br/>
+        C# ve Unity 6 üzerinde <b>kod tabanlı prosedürel mimari</b> ile geliştirildi. 7 farklı duy profiliyle gerçek zamanlı tek-mesh geometri üretimi, yüzeye duyarlı raycast etkileşimi, özel shader'lar ve JSON durum kayıt sistemi içerir.
+      </p>
+      <p>
+        <code>C#</code> <code>Procedural Geometry</code> <code>Custom Shaders</code> <code>3D Simulation</code>
       </p>
     </td>
   </tr>
@@ -100,6 +112,6 @@
 
 ## 📫 İletişim
 
-- 💼 **LinkedIn:** [linkedin.com/in/deniz-nazari-b351a0201](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
-- 📧 **E-posta:** [bffdeniz@gmail.com](mailto:bffdeniz@gmail.com)
-- 🌐 **Web:** [deniznazari.github.io](https://deniznazari.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/daniz-nazari-b351a0201](https://www.linkedin.com/in/daniz-nazari-b351a0201)
+- 📧 **E-posta:** [nazaridenizmacs@gmail.com](mailto:nazaridenizmacs@gmail.com)
+- 🌐 **Portfolyo:** [deniznazari.github.io](https://deniznazari.github.io)

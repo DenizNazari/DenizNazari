@@ -27,38 +27,40 @@
   <rect x="60" y="52" width="90" height="4" rx="2" fill="url(#accent)" />
 
   <!-- Main Heading -->
-  <text x="60" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
-    Deniz Nazari
+  <text x="60" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+    Deniz Nazari <tspan font-size="22" font-weight="500" fill="#8b949e">(Daniz Nazari)</tspan>
   </text>
 
   <!-- Subtitle / Role -->
-  <text x="60" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#a5b4fc">
-    Software Developer  ·  C# &amp; .NET Ecosystem  ·  Clean Architecture
+  <text x="60" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#a5b4fc">
+    .NET &amp; C# Developer  ·  Backend &amp; Full-Stack  ·  Digital Transformation &amp; AI
   </text>
 
   <!-- Tagline -->
-  <text x="60" y="198" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#8b949e">
-    &gt; Building scalable backend systems, desktop applications, and clean object-oriented architectures.
+  <text x="60" y="196" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14.5" fill="#8b949e">
+    &gt; Engineering Clean Architecture backends, enterprise workflows, and AI-driven solutions.
   </text>
 
   <!-- Right Code Card Decoration -->
-  <g transform="translate(830, 48)">
-    <rect width="310" height="164" rx="12" fill="#0d1117" fill-opacity="0.75" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(820, 44)">
+    <rect width="325" height="172" rx="12" fill="#0d1117" fill-opacity="0.78" stroke="#30363d" stroke-width="1.5" />
     <circle cx="22" cy="20" r="5" fill="#ff5f56" />
     <circle cx="38" cy="20" r="5" fill="#ffbd2e" />
     <circle cx="54" cy="20" r="5" fill="#27c93f" />
-    <text x="22" y="54" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#ff7b72">public record</text>
-    <text x="124" y="54" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#d2a8ff">Developer</text>
-    <text x="22" y="76" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">{</text>
-    <text x="38" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Stack</text>
-    <text x="85" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">= [</text>
-    <text x="110" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">".NET 9"</text>
-    <text x="174" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">,</text>
-    <text x="186" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"C#"</text>
-    <text x="220" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">],</text>
-    <text x="38" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Focus</text>
-    <text x="85" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">=</text>
-    <text x="102" y="120" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"Clean Architecture"</text>
+    <text x="22" y="52" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#ff7b72">public record</text>
+    <text x="124" y="52" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#d2a8ff">SoftwareEngineer</text>
+    <text x="22" y="74" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">{</text>
+    <text x="36" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Stack</text>
+    <text x="82" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">= [</text>
+    <text x="106" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">".NET 9"</text>
+    <text x="170" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">,</text>
+    <text x="182" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"C#"</text>
+    <text x="214" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">,</text>
+    <text x="226" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"SQL"</text>
+    <text x="268" y="96" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">],</text>
+    <text x="36" y="118" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#79c0ff">Focus</text>
+    <text x="82" y="118" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">=</text>
+    <text x="98" y="118" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#a5d6ff">"Digital Transform &amp; AI"</text>
     <text x="22" y="142" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" fill="#c9d1d9">};</text>
   </g>
 </svg>

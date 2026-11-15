@@ -1,12 +1,12 @@
 <div align="center">
 
-<a id="banner"><img src="./banner.svg" width="100%" alt="Deniz Nazari — Software Developer Banner" /></a>
+<a id="banner"><img src="./banner.svg" width="100%" alt="Deniz (Daniz) Nazari — Software Developer Banner" /></a>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniz-nazari-b351a0201)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deniznazari.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazaridenizmacs@gmail.com)
 
 <br />
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Developer** focused on building maintainable, well-structured applications within the **C# & .NET ecosystem** alongside Python and modern web technologies. I enjoy designing clean domain models, layered backend architectures (**Clean Architecture**), and interactive desktop & web applications.
+Hi, I'm **Deniz Nazari** *(Official / Passport: Daniz Nazari)* — a **Software Developer** specializing in **Backend & Full-Stack Engineering** within the **C# & .NET ecosystem**, with a strong focus on **Business Process Digital Transformation** and **Artificial Intelligence**.
 
-- 🏗️ **Architecture & Backend:** Designing modular solutions with `.NET 9`, `ASP.NET Core Web API`, `Domain-Driven Design (DDD)` principles, and unit-tested application layers.
-- 🧩 **Object-Oriented Engineering:** Strong foundation in C# OOP, algorithms, state machines, and desktop UI development (`Windows Forms`).
-- 🌍 **Full-Stack & Scripting:** Experienced in building web platforms and automation/data workflows using `Python`, `JavaScript`, `HTML5/CSS3`, and relational databases.
+- 🏗️ **.NET Backend & Clean Architecture:** Designing modular, maintainable systems with `C# 13`, `.NET 9`, `ASP.NET Core Web API`, `Entity Framework Core`, `PostgreSQL`, and `Domain-Driven Design (DDD)` principles.
+- 🔄 **Full-Stack & Digital Transformation:** Translating complex business processes into streamlined digital workflows across web and desktop (`Windows Forms`, `JavaScript`, `HTML5/CSS3`) platforms.
+- 🤖 **AI & Intelligent Automation:** Integrating AI-assisted workflows, data pipelines (`Python`), and algorithmic problem-solving into modern software solutions *(and exploring procedural 3D simulation in C# as a hobby)*.
 
 ---
 
@@ -36,6 +36,7 @@ I am a **Software Developer** focused on building maintainable, well-structured 
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,13 +44,14 @@ I am a **Software Developer** focused on building maintainable, well-structured 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </a>
 
-### Architecture, Data & DevTools
+### Architecture, Data, AI & DevTools
 <a id="tech-tools">
   <img src="https://img.shields.io/badge/Clean%20Architecture-10B981?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-6366F1?style=for-the-badge" alt="OOP & Design Patterns" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Digital%20Transformation-0EA5E9?style=for-the-badge" alt="Digital Transformation" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-8B5CF6?style=for-the-badge" alt="AI & Automation" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%26%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL & SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </a>
@@ -62,24 +64,34 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎂 <a href="./projects/poffle/README.md">Poffle</a></h3>
+    <td width="33%" valign="top">
+      <h3>🗓️ <a href="https://github.com/DenizNazari/MyPlannerApp">MyPlannerApp</a></h3>
       <p>
-        <b>Cozy 3D Cake Decorating &amp; Bakery Simulation</b><br/>
-        Engineered with a <b>code-driven procedural architecture</b> in Unity 6. Features real-time single-mesh cream extrusion across 7 nozzle profiles, surface-snapped raycast piping, vertex-alpha frosting film smoothing with spatula tools, multi-layer cake stacking, and a full order &amp; quality evaluation loop.
+        <b>.NET 9 Clean Architecture Productivity &amp; Workflow Platform</b><br/>
+        Engineered with decoupled <code>Domain</code>, <code>Application</code>, <code>Infrastructure</code>, <code>Api</code>, and <code>Tests</code> layers. Features hierarchical Task/Habit/Project entities, EF Core 9 Fluent API assembly scanning, PostgreSQL persistence, and streak analytics.
       </p>
       <p>
-        <code>C#</code> <code>Unity 6</code> <code>Procedural Mesh</code> <code>Custom Shaders</code> <code>3D Simulation</code>
+        <code>C# 13</code> <code>.NET 9</code> <code>EF Core 9</code> <code>PostgreSQL</code> <code>Clean Architecture</code>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🐉 <a href="https://github.com/DenizNazari/the-csharp-players-guide-quests">The C# Player's Guide — Quest Hub</a></h3>
       <p>
         <b>Interactive C# Console &amp; Windows Forms Engineering Portfolio</b><br/>
-        A modular collection of <b>25+ C# challenges & Boss Battles</b> featuring an interactive CLI launcher, a responsive <b>Windows Forms 15-Puzzle</b> desktop game with inversion-parity solvability guarantees, 24-bit ANSI TrueColor rendering, and full EN/TR technical documentation.
+        A modular collection of <b>25+ C# challenges &amp; Boss Battles</b> featuring an interactive CLI launcher, a responsive <b>Windows Forms 15-Puzzle</b> desktop application with inversion-parity solvability guarantees, and full EN/TR technical documentation.
       </p>
       <p>
         <code>C# 13</code> <code>.NET 9</code> <code>OOP</code> <code>Windows Forms</code> <code>Algorithms</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎂 <a href="./projects/poffle/README.md">Poffle (Showcase)</a></h3>
+      <p>
+        <b>Procedural 3D Simulation in C# (Hobby Project)</b><br/>
+        Engineered with a <b>code-driven procedural architecture</b> in C# &amp; Unity 6. Features real-time single-mesh geometry extrusion across 7 nozzle profiles, surface-snapped raycast interaction, custom shaders, and JSON state persistence.
+      </p>
+      <p>
+        <code>C#</code> <code>Procedural Geometry</code> <code>Custom Shaders</code> <code>3D Simulation</code>
       </p>
     </td>
   </tr>
@@ -100,6 +112,6 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 
 ## 📫 Contact
 
-- 💼 **LinkedIn:** [linkedin.com/in/deniz-nazari-b351a0201](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
-- 📧 **Email:** [bffdeniz@gmail.com](mailto:bffdeniz@gmail.com)
-- 🌐 **Web:** [deniznazari.github.io](https://deniznazari.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/daniz-nazari-b351a0201](https://www.linkedin.com/in/daniz-nazari-b351a0201)
+- 📧 **Email:** [nazaridenizmacs@gmail.com](mailto:nazaridenizmacs@gmail.com)
+- 🌐 **Portfolio:** [deniznazari.github.io](https://deniznazari.github.io)
