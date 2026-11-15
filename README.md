@@ -4,31 +4,16 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deniz%20Nazari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-deniznazari.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://deniznazari.github.io)
-[![Email](https://img.shields.io/badge/Email-bffdeniz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-nazari-b351a0201/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deniznazari.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bffdeniz@gmail.com)
 
 <br />
 
-[![English](https://img.shields.io/badge/🌐%20Language-English%20(Active)-38bdf8?style=for-the-badge)](./README.md)
-[![Türkçe](https://img.shields.io/badge/🇹🇷%20Dil-Türkçe-1f2937?style=for-the-badge)](./README.tr.md)
+[![English](https://img.shields.io/badge/English-38bdf8?style=for-the-badge&logo=readme&logoColor=0d1117)](./README.md)
+[![Türkçe](https://img.shields.io/badge/Türkçe-1e293b?style=for-the-badge&logo=translate&logoColor=white)](./README.tr.md)
 
 </div>
-
-<details>
-<summary><b>🇹🇷 Türkçe Versiyonu Buradan Açın / Click Here for Inline Turkish Summary</b> (veya yukarıdaki <b>Türkçe</b> butonuna tıklayın)</summary>
-<br />
-
-### 👨‍💻 Hakkımda
-**C# ve .NET ekosistemi** başta olmak üzere **Temiz Mimari (Clean Architecture)**, nesne yönelimli programlama (OOP), RESTful API'ler ve masaüstü/web uygulamaları geliştirmeye odaklanan bir **Yazılım Geliştiriciyim**. Okunabilir, test edilebilir ve ölçeklenebilir kod mimarileri kurmaya önem veriyorum.
-
-- 🏗️ **Mimari & Backend:** `.NET 9`, `ASP.NET Core Web API`, `Domain-Driven Design (DDD)` prensipleri ve birim testli uygulama katmanlarıyla modüler çözümler.
-- 🧩 **Nesne Yönelimli Mühendislik:** C# OOP, algoritmalar, durum makineleri ve `Windows Forms` masaüstü arayüz geliştirme.
-- 🌍 **Full-Stack & Otomasyon:** `Python`, `JavaScript`, `HTML5/CSS3` ve ilişkisel veritabanları ile web platformları ve veri iş akışları.
-
-👉 **[Tam Türkçe Profil Sayfasını Aç (`README.tr.md`)](./README.tr.md)**
-
-</details>
 
 ---
 
@@ -76,7 +61,7 @@ I am a **Software Developer** focused on building maintainable, well-structured 
     <td width="50%" valign="top">
       <h3>🗓️ <a href="https://github.com/DenizNazari/MyPlannerApp">MyPlannerApp</a></h3>
       <p>
-        <b>ADHD-Focused Multi-Platform Productivity &amp; Planning Ecosystem</b><br/>
+        <b>ADHD-Focused Multi-Platform Productivity & Planning Ecosystem</b><br/>
         Engineered with <b>.NET Clean Architecture</b> (<code>Domain</code>, <code>Application</code>, <code>Infrastructure</code>, <code>Api</code>, and <code>Tests</code>). Features rapid task capture workflows, hobby time-blocking, hydration tracking, weekly priority management, and an interactive companion pet system.
       </p>
       <p>
@@ -87,7 +72,7 @@ I am a **Software Developer** focused on building maintainable, well-structured 
       <h3>🐉 <a href="https://github.com/DenizNazari/the-csharp-players-guide-quests">The C# Player's Guide — Quest Hub</a></h3>
       <p>
         <b>Interactive C# Console &amp; Windows Forms Engineering Portfolio</b><br/>
-        A modular collection of <b>25+ C# challenges &amp; Boss Battles</b> featuring an interactive CLI launcher, a responsive <b>Windows Forms 15-Puzzle</b> desktop game with inversion-parity solvability guarantees, 24-bit ANSI TrueColor rendering, and full EN/TR technical documentation.
+        A modular collection of <b>25+ C# challenges & Boss Battles</b> featuring an interactive CLI launcher, a responsive <b>Windows Forms 15-Puzzle</b> desktop game with inversion-parity solvability guarantees, 24-bit ANSI TrueColor rendering, and full EN/TR technical documentation.
       </p>
       <p>
         <code>C# 13</code> <code>.NET 9</code> <code>OOP</code> <code>Windows Forms</code> <code>Algorithms</code>
@@ -101,10 +86,8 @@ I am a **Software Developer** focused on building maintainable, well-structured 
 ## 📊 GitHub Activity & Overview
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
-
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DenizNazari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=38bdf8&text_color=c9d1d9" alt="Deniz Nazari's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenizNazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
